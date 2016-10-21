@@ -1,0 +1,19 @@
+{
+  "name": "vanhackathon",
+  "version": "1.0.0",
+  "description": "Nosso projeto dos sonhos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lnmunhoz/vanhackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lnmunhoz/vanhackathon/issues"
+  },
+  "homepage": "https://github.com/lnmunhoz/vanhackathon#readme"
+}
